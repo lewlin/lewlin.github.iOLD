@@ -1,7 +1,7 @@
 ---
-title: "Jacopo Grilli - Publications"
+title: "Tommaso Biancalani - Publications"
 layout: gridlay
-excerpt: "Jacopo Grilli -- Publications."
+excerpt: "Tommaso Biancalani -- Publications."
 sitemap: false
 permalink: /publications/
 ---
